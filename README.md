@@ -6,6 +6,7 @@ Wish you have a nice day!
 **Showcase List**
 + Case Study 01: [Monthly Amazon Store's Sales & Marketing Performance Analysis](https://github.com/hienmoon1017/Amazon-Store-Sales-Marketing-Performance-Analysis)
 + Case Study 02: [My Master's Thesis "Factors Affecting the Intention to Continue Using the Social Network Facebook"](https://github.com/hienmoon1017/master-thesis)
++ Case Study 03: [Using SQL and SQLite to Provide Recommendations for Advertising Campaigns to the Digital Marketing Team for Optimization.](https://github.com/hienmoon1017/sql)
 
 Thank you for stopping by, and I'm pleased to connect with you, my new friend!
 
