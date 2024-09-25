@@ -8,6 +8,7 @@ Wish you have a nice day!
 + Case Study 02: [My Master's Thesis "Factors Affecting the Intention to Continue Using the Social Network Facebook"](https://github.com/hienmoon1017/master-thesis)
 + Case Study 03: [Using SQL and SQLite to Provide Recommendations for Advertising Campaigns to the Digital Marketing Team for Optimization.](https://github.com/hienmoon1017/sql)
 + Case Study 04: [Using Python for Data Analytics on the Insurance Charges Dataset](https://github.com/hienmoon1017/insurance-charges-dataset)
++ Case Study 05: [Analyze and Predict Housing Prices by Using Python](https://github.com/hienmoon1017/housing-prices)
 
 Thank you for stopping by, and I'm pleased to connect with you, my new friend!
 
