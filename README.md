@@ -6,12 +6,14 @@ Thank you for visiting my portfolio, where I share my practical skills and exper
 2. [My Master's Thesis "Factors Affecting the Intention to Continue Using the Social Network Facebook"](https://github.com/hienmoon1017/master-thesis)
 3. [Using SQL to Provide Recommendations for Advertising Campaigns to the Digital Marketing Team for Optimization.](https://github.com/hienmoon1017/sql-recommendations-for-advertising-campaigns)
 
+🌻 Mastered SQL through the Complete 8-Week SQL Challenges by Danny
+1. [Case Study #1 - Danny's Diner](https://github.com/hienmoon1017/8-week-sql-challenges-case-study-1)
+
 🌻 **Python Web Utilities**
 - [Palindrome Checker](https://github.com/hienmoon1017/python-palindrome-checker)
 - [A Webpage Timer Function](https://github.com/hienmoon1017/python-webpage-timer-function)
 
   💡 **Skills**: Using while loops and if-else statements to create utilities.
-
 
 🌻 **Data Analysis with Python**
 - [Using Python for Data Analytics on the Insurance Charges Dataset](https://github.com/hienmoon1017/python-insurance-charges-dataset)
