@@ -21,6 +21,7 @@ Thank you for visiting my portfolio, where I share my practical skills and exper
 
   💡 **Skills**: Using libraries such as _Pandas, NumPy, scikit-learn, Seaborn_, and _Matplotlib_, I clean data, perform Exploratory Data Analysis (EDA), develop single-variable and multi-variable linear regression models for prediction, and apply Ridge regression to enhance the performance of the linear regression models.
 
+
 Thank you for stopping by, and I'm pleased to connect with you, my new friend!
 
 **Please do not forget to FOLLOW and star ⭐ the repository if you find it valuable.**
