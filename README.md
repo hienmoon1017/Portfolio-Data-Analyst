@@ -4,7 +4,6 @@ Thank you for visiting my portfolio, where I share my practical skills and exper
 🌻 **Showcase List**
 1. [Monthly Amazon Store's Sales & Marketing Performance Analysis](https://github.com/hienmoon1017/amazon-store-sales-marketing-performance-analysis)
 2. [My Master's Thesis "Factors Affecting the Intention to Continue Using the Social Network Facebook"](https://github.com/hienmoon1017/master-thesis)
-3. [Using SQL to Provide Recommendations for Advertising Campaigns to the Digital Marketing Team for Optimization.](https://github.com/hienmoon1017/sql-recommendations-for-advertising-campaigns)
 
 🌻 Mastered SQL through the Complete 8-Week SQL Challenges by Danny
 1. [Case Study #1 - Danny's Diner](https://github.com/hienmoon1017/8-week-sql-challenges-case-study-1)
