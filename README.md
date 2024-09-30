@@ -8,6 +8,8 @@ Thank you for visiting my portfolio, where I share my practical skills and exper
 🌻 Mastered SQL through the Complete 8-Week SQL Challenges by Danny
 1. [Case Study #1 - Danny's Diner](https://github.com/hienmoon1017/8-week-sql-challenges-case-study-1)
 2. [Case Study #2 - Pizza Runner](https://github.com/hienmoon1017/8-week-sql-challenges-case-study-2)
+ 
+   _(continue to be updated)_
 
 🌻 **Python Web Utilities**
 - [Palindrome Checker](https://github.com/hienmoon1017/python-palindrome-checker)
