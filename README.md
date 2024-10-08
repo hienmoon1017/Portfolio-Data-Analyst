@@ -9,6 +9,7 @@ Thank you for visiting my portfolio, where I share my practical skills and exper
 🌻 **Mastered SQL through the Complete 8-Week SQL Challenges by Danny**
 1. [Case Study #1 - Danny's Diner](https://github.com/hienmoon1017/8-week-sql-challenges-case-study-1)
 2. [Case Study #2 - Pizza Runner](https://github.com/hienmoon1017/8-week-sql-challenges-case-study-2)
+3. [Case Study #3 - Foodie-Fi](https://github.com/hienmoon1017/8-week-sql-challenges-case-study-3)
  
    _(continue to be updated)_
    
