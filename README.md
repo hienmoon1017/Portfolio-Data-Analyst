@@ -11,6 +11,7 @@ Thank you for visiting my portfolio, where I share my practical skills and exper
 2. [Case Study #2 - Pizza Runner](https://github.com/hienmoon1017/8-week-sql-challenges-case-study-2)
 3. [Case Study #3 - Foodie-Fi](https://github.com/hienmoon1017/8-week-sql-challenges-case-study-3)
 4. [Case Study #4 - Data Bank](https://github.com/hienmoon1017/8-week-sql-challenges-case-study-4)
+5. [Case Study #5 - Data Mart](https://github.com/hienmoon1017/8-week-sql-challenges-case-study-5)
  
    _(continue to be updated)_
    
