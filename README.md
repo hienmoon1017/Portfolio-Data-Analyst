@@ -36,6 +36,7 @@ Thank you for visiting my portfolio, where I share my practical skills and exper
 
 🌻 **Data Visualization**
 - [Data Visualization](https://github.com/hienmoon1017/data-visualization)
+- [Data Visualization with Python](https://github.com/hienmoon1017/data-visualization-with-python)
 
 ❗ _Notice:_ I changed the data period and made other adjustments to protect the confidentiality of my company and the partners I have worked with. Please consider these as examples of my skills in data visualization. Thank you for your understanding
 
