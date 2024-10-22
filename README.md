@@ -14,8 +14,8 @@ Thank you for visiting my portfolio, where I share my practical skills and exper
 5. [Case Study #5 - Data Mart](https://github.com/hienmoon1017/8-week-sql-challenges-case-study-5)
 6. [Case Study #6 - Clique Bait](https://github.com/hienmoon1017/8-week-sql-challenges-case-study-6)
 7. [Case Study #7 - Balanced Tree](https://github.com/hienmoon1017/8-week-sql-challenges-case-study-7)
+8. [Case Study #8 - Fresh Segments](https://github.com/hienmoon1017/8-week-sql-challenges-case-study-8)
  
-   _(continue to be updated)_
    
    💡 **Skills**: Using SQL in Danny's Complete 8-Week SQL Challenges, I extracted, cleaned, and transformed data for analysis. I utilized joins, CTEs, window functions, and aggregate queries to explore and manipulate datasets. Throughout this process, I performed data preprocessing, optimized query performance, and ensured data integrity.
 
